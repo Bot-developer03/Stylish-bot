@@ -7,9 +7,9 @@
     "StylishText"
   ],
   "logo": "https://telegra.ph/file/64a33f1fe14c0e26c39b1.jpg",
-  "success_url": "https://telegram.dog/stylishtext_Nsbot",
-  "website": "https://github.com/Ns-Bots/Stylish-Text",
-  "repository": "https://github.com/MRK-YT/Stylish-Text",
+  "success_url": "https://telegram.dog/stylishtextNsbot",
+  "website": "https://github.com/bot-developer03/Stylish-bot",
+  "repository": "https://github.com/bot-developer03/Stylish-bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
